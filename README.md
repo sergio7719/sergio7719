@@ -9,13 +9,15 @@
 
 ### Skills:
 
-* Python
-* SQL
-* PowerBI
-* Tableu
-* Linux
+![Python](https://img.shields.io/badge/Python-blue)</br>
+![SQL](https://img.shields.io/badge/SQL-blue)</br>
+![PowerBI](https://img.shields.io/badge/PowerBI-blue)</br>
+![Tableu](https://img.shields.io/badge/Tableu-blue)</br>
+![Linux](https://img.shields.io/badge/Linux-blue)</br>
+
   
  ### Where to find me
 
- - [LinkedIn] (https://www.linkedin.com/in/sergio-berlanga/))
+
+ - ![LinkedIn](https://img.shields.io/badge/Linkedin/sergio-black) (https://www.linkedin.com/in/sergio-berlanga/)
  
