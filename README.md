@@ -3,9 +3,11 @@
 <!--
 **sergio7719/sergio7719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
- 💬  me about 
+ 💬  Sobre mi :
 
- I am a recent graduate of a data analyst bootcamp, excited to try out the new skills and knowledge acquired in these months. I like data analysis and with what I saw in the course I know that I will be able to give my 100% in the next projects that may come.
+ Soy un recién graduado de un bootcamp de analista de datos, entusiasmado por probar las nuevas habilidades y conocimientos adquiridos en estos meses. Me gusta el análisis de datos y con lo que vi en el curso sé que podré dar mi 100% en los próximos proyectos que puedan venir.
+
+ Actualemnte soy QA Lead y estoy especializado tanto pruebas manuales como automatizadas las herrmaientas principales que ocupo soy Postman, SoapUI, Visual Studio COde entre otras
 
 ### Skills:
 
