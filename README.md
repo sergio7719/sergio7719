@@ -3,6 +3,8 @@
 <!--
 **sergio7719/sergio7719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+[![Banner-DA2.png](https://i.postimg.cc/Wb9Bc8Tp/Banner-DA2.png)](https://postimg.cc/MvQPyyng)
+
  💬  Sobre mi :
 
  Soy un recién graduado de un bootcamp de analista de datos, entusiasmado por probar las nuevas habilidades y conocimientos adquiridos en estos meses. Me gusta el análisis de datos y con lo que vi en el curso sé que podré dar mi 100% en los próximos proyectos que puedan venir.
