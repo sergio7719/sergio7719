@@ -5,9 +5,9 @@
 
 [![Banner-DA2.png](https://i.postimg.cc/Wb9Bc8Tp/Banner-DA2.png)](https://postimg.cc/MvQPyyng)
 
- 💬  Sobre mi :
+ <h3> 💬  Sobre mi : </h3>
 
- Soy un recién graduado de un bootcamp de analista de datos, entusiasmado por probar las nuevas habilidades y conocimientos adquiridos en estos meses. Me gusta el análisis de datos y con lo que vi en el curso sé que podré dar mi 100% en los próximos proyectos que puedan venir.
+ 📊  Soy un recién graduado de un bootcamp de analista de datos, entusiasmado por probar las nuevas habilidades y conocimientos adquiridos en estos meses. Me gusta el análisis de datos y con lo que vi en el curso sé que podré dar mi 100% en los próximos proyectos que puedan venir.📊 
 
  Actualemnte soy QA Lead y estoy especializado tanto pruebas manuales como automatizadas las herrmaientas principales que ocupo soy Postman, SoapUI, Visual Studio COde entre otras
 
@@ -23,5 +23,5 @@
  ### Where to find me
 
 
- - ![LinkedIn](https://img.shields.io/badge/Linkedin/sergio-black) (https://www.linkedin.com/in/sergio-berlanga/)
+📫   - ![LinkedIn](https://img.shields.io/badge/Linkedin/sergio-black) (https://www.linkedin.com/in/sergio-berlanga/)
  
